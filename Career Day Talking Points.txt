@@ -24,9 +24,12 @@
 
 
 5) DEMO - SHOW 
+	
+	https://scratch.mit.edu
+	http://elm-lang.org:1234/examples/mario
+	
 	https://bitsbox.com/
 	http://elm-lang.org/examples/mario
-	http://elm-lang.org:1234/examples/mario
 	Video last thing
 
 
